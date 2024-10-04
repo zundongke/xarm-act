@@ -1,0 +1,8 @@
+numpy
+scipy
+hidapi
+git+https://github.com/xArm-Developer/xArm-Python-SDK.git@63cf15604f9e9b0ec38a2393542bbb696d158a01
+sapien==3.0.0.dev1
+ruckig
+imageio[ffmpeg]
+tqdm
